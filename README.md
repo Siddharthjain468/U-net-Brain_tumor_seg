@@ -6,7 +6,7 @@ before compilation fo code make sure you make the following folders:-<br/>
 
 Folder guide:<br/>
 
-..
+.<br/>
 BraTS2020_TrainingData<br/>
 ├── input_data_128          # Store sliced and splitted data (70%, 20%, 10%)<br/>
 └── input_data_3channels    # Store loaded data<br/>
